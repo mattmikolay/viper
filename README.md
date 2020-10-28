@@ -1,4 +1,5 @@
-# viper
+![VIPER](logo.png)
+==================
 
 This repository contains PDF scans of the VIPER newsletter.
 
