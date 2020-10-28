@@ -18,6 +18,15 @@ These scans were originally posted to the now-defunct RCA COSMAC VIP Yahoo
 Group. Thanks to Ray Sills, Frank Awtrey, Jim Hall, and Aurel Boisvert for
 providing many of these original documents and scans.
 
+## Table of contents
+
+- Volume 1
+- Volume 2
+- Volume 3
+- Volume 4
+- Volume 5
+- Volume 6
+
 ## Links
 
 - [Tom Swan’s Pips for VIPs]
