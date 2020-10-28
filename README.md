@@ -20,12 +20,12 @@ providing many of these original documents and scans.
 
 ## Table of contents
 
-- Volume 1
-- Volume 2
-- Volume 3
-- Volume 4
-- Volume 5
-- Volume 6
+- [Volume 1](volume1/)
+- [Volume 2](volume2/)
+- [Volume 3](volume3/)
+- [Volume 4](volume4/)
+- [Volume 5](volume5/)
+- [Volume 6](volume6/)
 
 ## Links
 
