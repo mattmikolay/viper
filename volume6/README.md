@@ -5,7 +5,7 @@ noncommercial use.** Scans of volumes 1-2 have been posted with the permission
 of Rick Simpson. Scans of volumes 3-6 have been posted with the permission of
 Ray Sills.
 
-## [Issue 1](issue1.pdf)
+## [Issue 1](issue1.pdf) - September 1984
 
 - Editorial
 - Reader I/O
