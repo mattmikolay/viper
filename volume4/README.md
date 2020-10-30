@@ -14,7 +14,7 @@ Ray Sills.
       Bob Casey
 - Advertisement
 - Software
-    + *One Page Programs (More keyer and Life)*  
+    + *One Page Programs (Morse keyer and Life)*  
       Steven Gunhouse
 - Advertisements
 - Tutorial
