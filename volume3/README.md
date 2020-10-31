@@ -130,7 +130,7 @@ Ray Sills.
 - Tutorial
   + *Little Loops “Dream Machine” with ‘Pit Stop’ variation of Dot Dash Game*  
     Tom Swan
-- *VIPER Index: Listing of VIPER material through 3.05* 
+- *VIPER Index: Listing of VIPER material through 3.05*  
   Andrew Sills
 - Reader I/O, Advertisement
 - Application
