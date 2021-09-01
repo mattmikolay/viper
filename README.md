@@ -35,4 +35,4 @@ providing many of these original documents and scans.
 
 [Tom Swan’s Pips for VIPs]: https://github.com/TomSwan/pips-for-vips
 [cosmacelf.com]: http://www.cosmacelf.com/
-[PCM’s Programs Series]: http://mattmik.com/retro.html
+[PCM’s Programs Series]: https://github.com/mattmikolay/moews-cosmac
